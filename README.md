@@ -12,7 +12,7 @@ The lab combines executable **PySpark** examples with explanations of Spark's di
 
 ## Lab materials
 
-- **[Spark lab notebook](SparkLab.ipynb)** — Read the examples and saved outputs directly on GitHub.
+- **[Spark lab notebook](spark-lab.ipynb)** — Read the examples and saved outputs directly on GitHub.
 - **[Sample employee data](employees.csv)** — Small dataset used for introductory DataFrame and SQL examples.
 - **`images/`** — Illustrations referenced by the notebook.
 
